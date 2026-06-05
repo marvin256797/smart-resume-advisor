@@ -1,0 +1,13 @@
+John Doe
+Software Engineer
+
+Experience:
+- 3 years Python development
+- 2 years React frontend
+- Database management with PostgreSQL
+
+Skills:
+Python, JavaScript, React, PostgreSQL, Git, Docker
+
+Education:
+BS Computer Science

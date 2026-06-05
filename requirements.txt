@@ -1,0 +1,9 @@
+@"
+streamlit
+openai
+supabase
+pypdf2
+python-dotenv
+pandas
+plotly
+"@ | Out-File -FilePath requirements.txt -Encoding utf8
