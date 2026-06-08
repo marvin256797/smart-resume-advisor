@@ -7,7 +7,7 @@ from openai import OpenAI
 import PyPDF2
 import plotly.express as px
 
-load_dotenv()
+pass
 
 # Setup
 supabase = create_client(
